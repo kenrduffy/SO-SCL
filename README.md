@@ -15,8 +15,9 @@ Output is recored in results.
 
 The following should be cited in association with results from this code.
 
-1) P. Yuan, K. R. Duffy & M. Médard. "Near-optimal generalized decoding of Polar-like codes.", IEEE ISIT, 2024. 
-2) P. Yuan, K. R. Duffy & M. Médard. "Soft-output successive cancellation list decoding", IEEE Transactions on Information Theory, 71 (2), 1007–1017, 2025.
+1) P. Yuan, M. Medard, K. Galligan, K. R. Duffy. "Soft-output (SO) GRAND and Iterative Decoding to Outperform LDPC Codes". IEEE Trans. Wireless Commun., 2025.
+2) P. Yuan, K. R. Duffy & M. Médard. "Near-optimal generalized decoding of Polar-like codes.", IEEE ISIT, 2024. 
+3) P. Yuan, K. R. Duffy & M. Médard. "Soft-output successive cancellation list decoding", IEEE Transactions on Information Theory, 71 (2), 1007–1017, 2025.
 
 In this implementation, a polar-like code is characterized by four parameters: n, k, frz, and dCons.
 
