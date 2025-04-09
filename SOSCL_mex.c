@@ -5,6 +5,9 @@
 
 /*
 * References to be cited when using this code.
+* P. Yuan, M. Medard, K. Galligan, K. R. Duffy. "Soft-output (SO) GRAND and 
+* Iterative Decoding to Outperform LDPC Codes". IEEE Trans. Wireless Commun., 
+* 2025.
 * P. Yuan, K. R. Duffy & M. Médard. "Near-optimal generalized decoding of 
 * Polar-like codes", IEEE ISIT, 2024.
 * P. Yuan, K. R. Duffy & M. Médard. "Soft-output successive cancellation 
